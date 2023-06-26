@@ -1,4 +1,6 @@
 C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
+C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\raemo\OneDrive\Documents\Vidly\bin\Vidly.dll.config
 C:\Users\raemo\OneDrive\Documents\Vidly\bin\Vidly.dll
@@ -83,5 +85,5 @@ C:\Users\raemo\OneDrive\Documents\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCo
 C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.dll
 C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.pdb
-C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\raemo\OneDrive\Documents\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
